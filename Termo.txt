@@ -1,1 +1,4 @@
-"Este programa destina-se apenas para fins de buscas por valores de pedidos e não deve ser utilizado em ambientes de produção ou para fins comerciais sem autorização. O desenvolvedor não se responsabiliza por quaisquer danos causados pelo uso deste programa. Ao utilizar este programa, você concorda com os termos e condições apresentados."
+"Este programa destina-se apenas para fins de buscas por valores de pedidos e não deve ser utilizado em ambientes 
+de produção ou para fins comerciais sem autorização. 
+O desenvolvedor não se responsabiliza por quaisquer danos causados pelo uso deste programa. 
+Ao utilizar este programa, você concorda com os termos e condições apresentados."
